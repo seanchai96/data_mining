@@ -1,4 +1,4 @@
-## G2T3 Spotify Sequential Skip Prediction using Supervised Learning Techniques
+## Spotify Sequential Skip Prediction using Supervised Learning Techniques through Data Mining
 ***
 You can find a report about our solution in the same folder named "DM_G2T3_Final Report". We have included our final presentation slides named "DM_G2T3_Presentation".
 
